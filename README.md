@@ -35,12 +35,20 @@ Domain knowledge
 
 **Business Analyst and BI analyst** leverage the work of DA and DS to look at possible implications for their business and **actions** they need to take or recommend.
 
-##### Field of data engineering involves:  
+**Field of data engineering involves**:  
 **Collecting source data**: extrating, integrating, oragnizing data from disparate sources  
-(develop tool, workflow, process to acquire data from multiple sources;  
-design, build, maintain scalable data architecture to store data)  
-**Processing data**: cleaning transforming, preparing data to make it usable   (implement, maintain distributed systems for large scale processing of data;  
-design pipelines for ETL of data into data repositories;  
-design/implement solution for validating and safeguarding quality, privacy and security of data;  
-optimize tools, systems, and workflows for performances, reliability and scalablity;  
-ensure data meets all regulatory and compliance guidelines)  
+develop tool, workflow, process to acquire data from multiple sources   
+design, build, maintain scalable data architecture to store data  
+**Processing data**: cleaning transforming, preparing data to make it usable   implement, maintain distributed systems for large scale processing of data    
+design pipelines for ETL of data into data repositories  
+design/implement solution for validating and safeguarding quality, privacy and security of data  
+optimize tools, systems, and workflows for performances, reliability and scalablity  
+ensure data meets all regulatory and compliance guidelines  
+**Storing data** for reliability and easy availability of data storing data for reliability  
+architect/implement data stores for the storage of processed data  
+ensure systems are scalable  
+ensure data privacy, security, compliance, monitoring, backup and recovery  
+**Making data available to users securely**  
+APIs, services, and programs for retrieving data for end-users  
+Dashboard and interface that present data to user  
+**Data Engineering is a team sport, no one person is expected to have all the knowledge, skills, and specializations required for the wide-ranging tasks covered within the scope of data engineering**
