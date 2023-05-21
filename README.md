@@ -51,4 +51,4 @@ ensure data privacy, security, compliance, monitoring, backup and recovery
 **Making data available to users securely**  
 APIs, services, and programs for retrieving data for end-users  
 Dashboard and interface that present data to user  
-**Data Engineering is a team sport, no one person is expected to have all the knowledge, skills, and specializations required for the wide-ranging tasks covered within the scope of data engineering**
+**--> Data Engineering is a team sport, no one person is expected to have all the knowledge, skills, and specializations required for the wide-ranging tasks covered within the scope of data engineering**
