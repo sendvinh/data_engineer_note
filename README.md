@@ -34,3 +34,13 @@ Programming languages, databaases, building datamodels
 Domain knowledge  
 
 **Business Analyst and BI analyst** leverage the work of DA and DS to look at possible implications for their business and **actions** they need to take or recommend.
+
+##### Field of data engineering involves:  
+**Collecting source data**: extrating, integrating, oragnizing data from disparate sources  
+(develop tool, workflow, process to acquire data from multiple sources;  
+design, build, maintain scalable data architecture to store data)  
+**Processing data**: cleaning transforming, preparing data to make it usable   (implement, maintain distributed systems for large scale processing of data;  
+design pipelines for ETL of data into data repositories;  
+design/implement solution for validating and safeguarding quality, privacy and security of data;  
+optimize tools, systems, and workflows for performances, reliability and scalablity;  
+ensure data meets all regulatory and compliance guidelines)  
