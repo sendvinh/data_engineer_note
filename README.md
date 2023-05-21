@@ -23,7 +23,7 @@ Good knoledge of spreadsheets, wrting queries, use statistical tools to create c
 Programming skills  
 Strong analytical and story-telling skills  
 
-**Data Scientist** anaylyze data for actionable insight  
+**Data Scientist** use DA and DE to predict the future suing data from the past  
 Create predictive models using Machine Learning and Deep Learning  
 Ex: (related to predition)  
 How many new social media followers am I likely to get nex month?  
@@ -33,4 +33,4 @@ Mathematics and Statistics
 Programming languages, databaases, building datamodels  
 Domain knowledge  
 
-**Business Analyst and BI analyst** leverage the work of DA and DS to look at possible implications for their business and actions they need to take or recommend.
+**Business Analyst and BI analyst** leverage the work of DA and DS to look at possible implications for their business and **actions** they need to take or recommend.
