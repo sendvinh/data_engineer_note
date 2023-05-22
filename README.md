@@ -35,7 +35,7 @@ Domain knowledge
 
 **Business Analyst and BI analyst** leverage the work of DA and DS to look at possible implications for their business and **actions** they need to take or recommend.
 
-**Field of data engineering involves**:  
+#### Field of data engineering involves: 
 **Collecting source data**: extrating, integrating, oragnizing data from disparate sources  
 develop tool, workflow, process to acquire data from multiple sources   
 design, build, maintain scalable data architecture to store data  
@@ -52,3 +52,24 @@ ensure data privacy, security, compliance, monitoring, backup and recovery
 APIs, services, and programs for retrieving data for end-users  
 Dashboard and interface that present data to user  
 **--> Data Engineering is a team sport, no one person is expected to have all the knowledge, skills, and specializations required for the wide-ranging tasks covered within the scope of data engineering**
+
+**Resposibilities of DE**:  
+ETE data from disaparate sources   
+Preapare data for analysis and reporting by transforming and cleansing   
+Design and ma nage data piplines   
+Setup and manage the infrastructure...  
+**Skills of DE**:  
+**Technical skills**:  
+Operating Systems: UNIS, Linux, Windows...  
+Infrastructure Components: VM, Networking, App Services (load balancer, perforamance monitoring), Cloud-based services  
+Databases and Data Warehouses: RDBMS, NoSQL(redis, mongodb, cassandra, neo4j), Data Warehouses(Amazon Redshift...)  
+Data Pipelines: Apache Beam, Apache Airflow, Dataflow  
+ETL tools: IPM infosphere, Aws glue  
+Languages: Query(Sql, Sql-like), Programming(Java, Python). Shell and scripting language  
+Big data process tools: hadoop, hive, spark  
+**Functional skills**:  
+Convert requirement to technicall specs  
+...  
+**Soft skills**:  
+Communication in tech and non-tech  
+...
