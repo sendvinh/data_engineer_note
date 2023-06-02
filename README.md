@@ -53,7 +53,7 @@ APIs, services, and programs for retrieving data for end-users
 Dashboard and interface that present data to user  
 **--> Data Engineering is a team sport, no one person is expected to have all the knowledge, skills, and specializations required for the wide-ranging tasks covered within the scope of data engineering**
 
-**Resposibilities of DE**:  
+#### Resposibilities of DE:  
 ETE data from disaparate sources   
 Preapare data for analysis and reporting by transforming and cleansing   
 Design and ma nage data piplines   
@@ -73,3 +73,17 @@ Convert requirement to technicall specs
 **Soft skills**:  
 Communication in tech and non-tech  
 ...
+
+#### Data Engineer Ecosystem  
+Data types:  
+Structured data: database, spreadsheets...  
+Semi-structured data: email...  
+Unstructured data: photos, videos, text files, pdfs, social media content...  
+Data sources:  database, apies, web services, stream, social media, censor...  
+Data repositories:  
+transactional (OLTP - Online Transaction Processing): tramsactopm database. atm database...  
+Analytical (OLAP - Online Analytical Processing): database, data warehouse, data lake, big data store...  
+Data integration: collated -> processed -> cleansed -> integrated -> user  
+Data pipeline: tools, processes -> cover journeey of data from source to destination  
+
+
