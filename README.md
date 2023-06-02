@@ -84,6 +84,6 @@ Data repositories:
 transactional (OLTP - Online Transaction Processing): tramsactopm database. atm database...  
 Analytical (OLAP - Online Analytical Processing): database, data warehouse, data lake, big data store...  
 Data integration: collated -> processed -> cleansed -> integrated -> user  
-Data pipeline: tools, processes -> cover journeey of data from source to destination  
-
+Data pipeline: tools, processes that cover journeey of data from source to destination  
+BI and reporting tools:  
 
