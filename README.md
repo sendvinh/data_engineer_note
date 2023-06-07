@@ -87,3 +87,11 @@ Data integration: collated -> processed -> cleansed -> integrated -> user
 Data pipeline: tools, processes that cover journeey of data from source to destination  
 BI and reporting tools:  
 
+#### Big Data  
+Velocity: data is being generated extremely fast, in a process that never stops  
+Volume: increase inf data store  
+Variety: diversity of data, variaty of source  
+Vẻacity: quality and origin of data  
+Value: turn to valueable data  
+
+
