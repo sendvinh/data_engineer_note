@@ -107,4 +107,11 @@ Extracting data from source locations.
 Transforming raw data by cleaning, enriching, standardizing, and validating it.  
 Loading the processed data into a destination system or data repository.  
 
+###$ The architecture of a data platform can be seen as a set of layers, or functional components, each one performing a set of specific tasks. These layers include:  
+Data Ingestion or Data Collection Layer, responsible for bringing data from source systems into the data platform.  
+Data Storage and Integration Layer, responsible for storing and merging extracted data.  
+Data Processing Layer, responsible for validating, transforming, and applying business rules to data.  
+Analysis and User Interface Layer, responsible for delivering processed data to data consumers.  
+Data Pipeline Layer, responsible for implementing and maintaining a continuously flowing data pipeline.  
+
 
